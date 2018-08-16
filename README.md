@@ -4,10 +4,15 @@ A python made LAN chat application that uses tkinter for GUI and sockets.
 
 Libraries used:
 1.tkinter(GUI)
+
 2.cx_breeze(convert the script to executable files and installer for Windows)
+
 3.sockets(connections)
+
 4.psutil(to get whether the process is running or not.)
+
 5.webbrowser(link to website)
+
 6.threading(multithreading, context switching)
 
 How to run:
