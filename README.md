@@ -1,5 +1,7 @@
 # GT-CHAT
 A python made LAN chat application that uses tkinter for GUI and sockets.
+
+
 Libraries used:
 1.tkinter(GUI)
 2.cx_breeze(convert the script to executable files and installer for Windows)
